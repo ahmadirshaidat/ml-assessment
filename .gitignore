@@ -1,0 +1,8 @@
+# Ignore data files
+data/*.csv
+deliverables/*.csv
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
